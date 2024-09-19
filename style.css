@@ -45,13 +45,28 @@ footer {
     width: 100%;
 }
 
-iframe {
-    height: 210px;
-    border: 1px solid #ddd;
+/* Grid container styling */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    padding: 20px;
+    margin: 20px;
 }
 
-section {
-    margin-left: 30px;
+/* Styling for each grid item */
+.grid-item {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+/* Styling for iframe */
+.grid-item iframe {
+    width: 100%;
+    height: 300px;
+    border: 1px solid #ddd;
 }
 
 
