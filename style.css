@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #5297b2;
     color: white;
     padding: 20px;
     text-align: center;
@@ -45,7 +45,9 @@ footer {
     width: 100%;
 }
 
-.item {
-    padding-left: 40px;
-    margin-top: 60px;
+iframe {
+    height: 210px;
+    border: 1px solid #ddd;
 }
+
+
