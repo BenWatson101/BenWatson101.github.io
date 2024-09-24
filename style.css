@@ -211,3 +211,33 @@ for MyJavaDocumenter
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+/*
+for tetris
+ */
+
+.tetris {
+    padding: 50px 20px;
+}
+
+.tetris .videos {
+    max-height: 80px;
+    margin: 0 auto;
+}
+
+.tetris .videos video {
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.tetris .text-section {
+    font-size: 20px;
+    color: #333;
+    margin: 20px 0;
+    background-color: #fff;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
