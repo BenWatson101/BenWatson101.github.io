@@ -176,3 +176,38 @@ for the balloon photos
     height: auto;
     margin-bottom: 40px;
 }
+
+/*
+for MyJavaDocumenter
+ */
+
+.java {
+    padding: 50px 20px;
+}
+
+.java .photos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Create 3 equal columns */
+    grid-gap: 20px; /* Space between the grid items */
+    padding: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.java .photos img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.java .photos img:hover {
+    transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+    .java .photos {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

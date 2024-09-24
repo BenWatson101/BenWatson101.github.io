@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84301d0b-2f62-47bc-ac01-7fecad945544" name="Changes" comment="made page more professional">
-      <change afterPath="$PROJECT_DIR$/assets/balloons/IMG_3634.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/balloons/IMG_3635.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/balloons/My Movie 13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/balloon.html" afterDir="false" />
+    <list default="true" id="84301d0b-2f62-47bc-ac01-7fecad945544" name="Changes" comment="added dog">
+      <change afterPath="$PROJECT_DIR$/myJava.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectsStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/balloon.html" beforeDir="false" afterPath="$PROJECT_DIR$/balloon.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +73,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bwats\WebstormProjects\BensWebsite\" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,7 +98,8 @@
       <workItem from="1726761205152" duration="1114000" />
       <workItem from="1726783940196" duration="606000" />
       <workItem from="1726866162684" duration="3000" />
-      <workItem from="1726866493478" duration="4020000" />
+      <workItem from="1726866493478" duration="6443000" />
+      <workItem from="1727135928383" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <option name="closed" value="true" />
@@ -212,7 +213,39 @@
       <option name="project" value="LOCAL" />
       <updated>1726868223395</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added stuff">
+      <option name="closed" value="true" />
+      <created>1726871141840</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726871141840</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed a sentence">
+      <option name="closed" value="true" />
+      <created>1726871262480</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726871262480</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fixed even more stuff">
+      <option name="closed" value="true" />
+      <created>1726871622329</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726871622329</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added dog">
+      <option name="closed" value="true" />
+      <created>1726872206412</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726872206412</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +267,10 @@
     <MESSAGE value="testing" />
     <MESSAGE value="uploaded icon" />
     <MESSAGE value="made page more professional" />
-    <option name="LAST_COMMIT_MESSAGE" value="made page more professional" />
+    <MESSAGE value="added stuff" />
+    <MESSAGE value="fixed a sentence" />
+    <MESSAGE value="fixed even more stuff" />
+    <MESSAGE value="added dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="added dog" />
   </component>
 </project>
